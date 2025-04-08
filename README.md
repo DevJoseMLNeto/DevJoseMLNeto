@@ -8,9 +8,9 @@ Sou um desenvolvedor front-end com mais de 1 ano de experiência trabalhando com
 
 ## 🚀 Tecnologias & Ferramentas
 
-- **Front-End:** Angular, TypeScript, JavaScript, HTML, CSS, Bootstrap
-- **Mobile:** Ionic, Android Studio, Kotlin
-- **Back-End:** Java, Spring Boot, SQL
+- **Front-End:** Angular, TypeScript, JavaScript, HTML, CSS, Bootstrap, Rest APIs
+- **Mobile:** Ionic
+- **Back-End:** Java, NodeJs, SQL
 - **Versionamento:** Git & GitHub
 - **Metodologias:** Scrum, Kanban
 
