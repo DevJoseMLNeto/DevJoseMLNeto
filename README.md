@@ -2,7 +2,7 @@
 
 ### 💻 Desenvolvedor Front-End
 
-Sesenvolvedor front-end com mais de 1 ano de experiência trabalhando com tecnologias como **Angular, TypeScript, JavaScript, JAVA, Spring, HTML, CSS e SQL**. Atualmente trabalho em projetos freelancer, e sou auxiliar administrativo na empresa NeoEnergia. Atuei na criação de **landing pages**, **aplicações web** e **aplicativos móveis com Ionic**. Por agora tenho meus estudos voltados para multithreading com JAVA, AWS e google cloud. Todos os dias trabalho e estudo buscando me especializar cada vez mais desenvolvendo diversos projetos.
+Sou desenvolvedor front-end com mais de 1 ano de experiência trabalhando com tecnologias como **Angular, TypeScript, JavaScript, JAVA, Spring, HTML, CSS e SQL**. Atualmente trabalho em projetos freelancer, e sou auxiliar administrativo na empresa NeoEnergia. Atuei na criação de **landing pages**, **aplicações web** e **aplicativos móveis com Ionic**. Por agora tenho meus estudos voltados para multithreading com JAVA, AWS e google cloud. Todos os dias trabalho e estudo buscando me especializar cada vez mais desenvolvendo diversos projetos.
 
 ---
 
