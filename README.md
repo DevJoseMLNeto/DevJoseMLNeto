@@ -2,7 +2,7 @@
 
 ### 💻 Desenvolvedor Front-End
 
-Sou um desenvolvedor front-end com mais de 1 ano de experiência trabalhando com tecnologias como **Angular, TypeScript, JavaScript, HTML, CSS e SQL**. Atualmente trabalho em projetos freelancer, e desenvolvo para empresa de tecnologia toak-solutions, atuando na criação de **landing pages**, **aplicações web** e **aplicativos móveis com Ionic**. Por agora tenho meus estudos voltados para Java e spring, venho buscado me tornar u desenvolveor full-stack com conhecimentos em CRUD, SOLID, APIs rest-full e estou muito animado com tudo que venho aprendendo e todas as possibilidades que existem. E para finalizar sou um entusiasta de desenvolvimento de games, estou animado com o rpg portifolio que estou desenvolvendo com phaser e não vejo há hora de completar seu desenvolvimento.
+Sesenvolvedor front-end com mais de 1 ano de experiência trabalhando com tecnologias como **Angular, TypeScript, JavaScript, JAVA, Spring, HTML, CSS e SQL**. Atualmente trabalho em projetos freelancer, e sou auxiliar administrativo na empresa NeoEnergia. Atuei na criação de **landing pages**, **aplicações web** e **aplicativos móveis com Ionic**. Por agora tenho meus estudos voltados para multithreading com JAVA, AWS e google cloud. Todos os dias trabalho e estudo buscando me especializar cada vez mais desenvolvendo diversos projetos.
 
 ---
 
@@ -10,7 +10,7 @@ Sou um desenvolvedor front-end com mais de 1 ano de experiência trabalhando com
 
 - **Front-End:** Angular, TypeScript, JavaScript, HTML, CSS, Bootstrap, Rest APIs
 - **Mobile:** Ionic
-- **Back-End:** Java, NodeJs, SQL
+- **Back-End:** Java, Spring boot, Spring Security
 - **Versionamento:** Git & GitHub
 - **Metodologias:** Scrum, Kanban
 
@@ -25,12 +25,13 @@ Sou um desenvolvedor front-end com mais de 1 ano de experiência trabalhando com
 
 ### 🚴 Freelancer - Jaguar Bike *(Maio 2023 – Atual)*
 - Desenvolvimento de uma aplicação web para **cadastro de clientes** com **HTML, CSS e JavaScript**.
-- Atualização do projeto para **Angular + Spring Boot + SQL**, tornando-o mais escalável e robusto.
+- Atualização do projeto para **Angular + Spring Boot + SQL**, tornando-o mais escalável ,robusto e adicionando novas funcionalidades.
 
 ---
 
 ## 📚 Formação & Cursos
 - **Curso Técnico em Desenvolvimento Móvel - SENAC** *(Lógica de Programação, Banco de Dados, Android Studio, Kotlin, Java)*
+- **Analise e desenvolvimento de sistemas - UNIASSELVI** *(Interrompido)*
 - **Bootcamp Full-Stack Angular + Java - DIO** *
 - **Inglês Intermediário - FISK**
 
