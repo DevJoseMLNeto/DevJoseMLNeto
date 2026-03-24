@@ -31,7 +31,7 @@ Sou desenvolvedor front-end com mais de 1 ano de experiência trabalhando com te
 
 ## 📚 Formação & Cursos
 - **Curso Técnico em Desenvolvimento Móvel - SENAC** *(Lógica de Programação, Banco de Dados, Android Studio, Kotlin, Java)*
-- **Analise e desenvolvimento de sistemas - UNIASSELVI** *(Interrompido)*
+- **Bacharel Matematica - UESC**
 - **Bootcamp Full-Stack Angular + Java - DIO** *
 - **Inglês Intermediário - FISK**
 
