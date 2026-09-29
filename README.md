@@ -1,47 +1,89 @@
-# Olá, bem vindo a DeveloperStation José Morais! 😎
+# Olá, eu sou o José Morais 👋
 
-### 💻 Desenvolvedor Full-Stack
+**Analista de Sistemas | Desenvolvedor Java & Angular**
 
-Sou desenvolvedor front-end, trabalho com tecnologias como **Angular, TypeScript, JavaScript, JAVA, Spring, HTML, CSS e SQL**. Atualmente trabalho em projetos freelancer, e sou auxiliar administrativo na empresa NeoEnergia. Atuei na criação de **landing pages**, **aplicações web** e **aplicativos móveis com Ionic**. Por agora tenho meus estudos voltados para multithreading com JAVA, AWS e google cloud. Todos os dias trabalho e estudo buscando me especializar cada vez mais desenvolvendo diversos projetos.
+Desenvolvedor com experiência em programação, desenvolvimento de softwares e APIs, e em rotinas administrativas e controle de processos operacionais com sistemas ERP. Formação técnica em TI e Administração, com foco em organização, boa comunicação e gerenciamento eficiente de tempo.
 
----
-
-## 🚀 Tecnologias & Ferramentas
-
-- **Front-End:** Angular, TypeScript, JavaScript, HTML, CSS, Bootstrap, Rest APIs
-- **Mobile:** Ionic
-- **Back-End:** Java, Spring boot, Spring Security
-- **Versionamento:** Git & GitHub
-- **Metodologias:** Scrum, Kanban
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-devjose--morais-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devjose-morais)
+[![Email](https://img.shields.io/badge/Email-devjosemorais@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devjosemorais@gmail.com)
 
 ---
 
-## 💼 Experiência Profissional
+## 🛠️ Tecnologias
 
-### 🏢 Dev-Toak - Desenvolvedor Front-End Júnior *(Maio 2024 – Atual)*
-- Desenvolvimento de landing pages responsivas e interativas com **Angular e Bootstrap**.
-- Desenvolvimento do front-end de um **aplicativo mobile com Ionic e Angular**
-- Uso de **Git e GitHub** para versionamento e aplicação de metodologias ágeis como **Scrum e Kanban**.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Google](https://img.shields.io/badge/Google_APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### 🚴 Freelancer - Jaguar Bike *(Maio 2023 – Atual)*
-- Desenvolvimento de uma aplicação web para **cadastro de clientes** com **HTML, CSS e JavaScript**.
-- Atualização do projeto para **Angular + Spring Boot + SQL**, tornando-o mais escalável ,robusto e adicionando novas funcionalidades.
-
----
-
-## 📚 Formação & Cursos
-- **Curso Técnico em Desenvolvimento Móvel - SENAC** *(Lógica de Programação, Banco de Dados, Android Studio, Kotlin, Java)*
-- **Bacharel Matematica - UESC**
-- **Bootcamp Full-Stack Angular + Java - DIO** *
-- **Inglês Intermediário - FISK**
-
----
-
-## 📫 Como me encontrar:
-- **📧 Email:** devjosemorais@gmail.com
-- **💼 LinkedIn:** [José Morais](https://www.linkedin.com/in/jos%C3%A9-morais)
-- **👨‍💻 GitHub:** [DevJoseMLNeto](https://github.com/DevJoseMLNeto)
+- **Back-end:** Java, REST APIs, Google APIs
+- **Front-end:** Angular
+- **Banco de dados:** PostgreSQL
+- **Deploy em nuvem:** Netlify e Render
+- **Metodologias:** Scrum e Kanban
+- **Ferramentas:** Microsoft Office (Excel, Word, PowerPoint) e Google Workspace
+- **Sistemas ERP:** SAP KM e WFM
 
 ---
 
-📌 Sempre em busca de aprender mais e evoluir no mundo da tecnologia! 🚀
+## 💼 Experiência profissional
+
+### Neoenergia Coelba — Auxiliar Administrativo
+*Julho de 2025 – Agosto de 2026*
+
+- Organização, arquivamento e digitalização de documentos e processos administrativos, garantindo integridade e fácil acesso às informações.
+- Elaboração de planilhas de controle, relatórios e apresentações corporativas com Excel, Word e PowerPoint.
+- Inventário de equipamentos na viatura e no almoxarifado, respeitando prazos estabelecidos por KPI.
+- Suporte na gestão de equipes operacionais, atendimento de notas e organização do fluxo de trabalho em sistemas ERP (SAP KM e WFM).
+
+### Jaguar Bike — Desenvolvedor de Sistemas (Freelancer)
+*Janeiro de 2025 – Junho de 2026*
+
+- Alinhamento direto com clientes para mapeamento de requisitos e apresentação do projeto ERP.
+- Desenvolvimento de sistema ERP com Angular, Java e PostgreSQL.
+- Desenvolvimento de REST APIs.
+- Deploy em nuvem com Netlify e Render.
+
+### Toak-Solutions — Assistente de Projetos e Tecnologia / Dev. Júnior
+*Maio de 2024 – Junho de 2025*
+
+- Participação em reuniões ágeis (Scrum/Kanban) para alinhamento de prazos, distribuição de tarefas e acompanhamento de entregas.
+- Organização da documentação técnica e do fluxo de regras de negócio dos projetos.
+- Desenvolvimento de sistemas com Java e Angular.
+- Desenvolvimento com Google APIs.
+
+---
+
+## 🎓 Formação
+
+- **Análise e Desenvolvimento de Sistemas** — UNIASSELVI *(trancado)*
+- **Técnico em Auxiliar Administrativo** — SENAI
+- **Técnico em Desenvolvimento de Sistemas Mobile** — SENAC
+
+---
+
+## 🤝 Soft skills
+
+Comunicação clara, proatividade, raciocínio lógico, capacidade de negociação e escuta ativa.
+
+## 🌎 Idiomas
+
+Inglês intermediário
+
+---
+
+## 📫 Contato
+
+- 📧 [devjosemorais@gmail.com](mailto:devjosemorais@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/devjose-morais)
+- 🐙 [GitHub](https://github.com/DevJoseMLNeto)
+
+---
+
+### 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DevJoseMLNeto&show_icons=true&theme=default)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJoseMLNeto&layout=compact)
